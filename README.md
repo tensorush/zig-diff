@@ -3,7 +3,7 @@
 [![CI][ci-sld]][ci-url]
 [![LC][lc-sld]][lc-url]
 
-### Zig implementation of the [Myers difference algorithm](http://www.xmailserver.org/diff2.pdf) created by [Eugene Myers](https://github.com/thegenemyers).
+### Zig implementation of the [diff algorithm](http://www.xmailserver.org/diff2.pdf) created by [Eugene Myers](https://github.com/thegenemyers).
 
 #### :rocket: Usage
 
